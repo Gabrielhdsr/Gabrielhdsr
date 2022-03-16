@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there 👋
 
 <!--
 **Gabrielhdsr/Gabrielhdsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-#Hello world, I'm Gabriel! U+1F30D
+### Hello world, I'm Gabriel! U+1F30D
