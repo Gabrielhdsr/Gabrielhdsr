@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=linkedin.com/in/gabriel-henrique-donini-4356b51b7)](https://www.github.com/Gabrielhdsr)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 - Thanks for visiting.
 
