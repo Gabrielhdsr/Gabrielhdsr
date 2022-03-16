@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gabrielhdsr)](https://github.com/Gabrielhdsr)    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:linkedin.com/in/gabriel-henrique-donini-4356b51b7)](linkedin.com/in/gabriel-henrique-donini-4356b51b7)
 
-##Languages and Tools
+## Languages and Tools
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-
+<code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 
