@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 #  Hello world, I'm Gabriel!🌍
-..computer science student!
-:computer: I'm Front-End Developer!
+
+:computer: ...computer science student!
 
 :house_with_garden: I’m from Brazil.
 
