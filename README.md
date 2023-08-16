@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Java and database.
+:books: I’m currently learning Data Science.
 
 ## About me
 
